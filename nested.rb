@@ -20,14 +20,6 @@ def hopper
 
 end
 
-:yukihiro_matsumoto => {
-#   :known_for => "Ruby",
-#    :languages => ["LISP", "C"]
-
-def alan_kay_is_known_for
-	programmer_hash[:alan_kay][:known_for]
-	
-	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 	
 	programmer_hash = 
  		{
